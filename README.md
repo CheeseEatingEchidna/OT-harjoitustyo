@@ -9,3 +9,5 @@
 [komentorivi](https://github.com/CheeseEatingEchidna/OT-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
 
 Tehtävä 16: nämä ovat niitä muutoksia
+
+Iiiim gooooiiiing through CHAAAAnngeeeeeees!
