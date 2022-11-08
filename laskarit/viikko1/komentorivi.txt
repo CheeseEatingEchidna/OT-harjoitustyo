@@ -1,0 +1,17 @@
+├── Desktop -> /home/ad/home/p/paxmatik/Desktop
+├── Documents -> /home/ad/home/p/paxmatik/Documents
+├── Downloads -> /home/ad/home/p/paxmatik/Downloads
+└── kurssit
+    └── ot2022
+        └── viikko1
+            └── unicafe
+                ├── poetry.lock
+                ├── pyproject.toml
+                └── src
+                    ├── index.py
+                    ├── kassapaate.py
+                    ├── maksukortti.py
+                    └── tests
+                        ├── __init__.py
+                        └── maksukortti_test.py
+

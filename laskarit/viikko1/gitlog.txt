@@ -1,0 +1,51 @@
+commit f8a6dd121c1b2b5a8a31c6b79c89b3de00f70a62
+Author: CheeseEatingEchidna <patrik.matikainen@gmail.com>
+Date:   Tue Nov 8 11:36:08 2022 +0200
+
+    File2 to file22 and file 1 rm
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4446e90a75b333284247c2a812245457ca41ffaa
+Author: CheeseEatingEchidna <patrik.matikainen@gmail.com>
+Date:   Tue Nov 8 11:30:22 2022 +0200
+
+    Tehtävä 11: Harjoittelua, comit 1
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 642220e0930b2cea36d79bfee0aac5f76f3ce96f
+Author: CheeseEatingEchidna <patrik.matikainen@gmail.com>
+Date:   Fri Nov 4 11:16:13 2022 +0200
+
+    text added and removed from eka and kolmas .txt
+
+ eka.txt    | 5 +----
+ kolmas.txt | 4 +++-
+ 2 files changed, 4 insertions(+), 5 deletions(-)
+
+commit d1a92cfcba4f2d6e658e2915bfde4202112e6005
+Author: CheeseEatingEchidna <patrik.matikainen@gmail.com>
+Date:   Fri Nov 4 11:11:47 2022 +0200
+
+    tiedosto.txt renamed to eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e5ffdd4f2bf273c76cbe1f81ff76c1ec4715af38
+Author: CheeseEatingEchidna <patrik.matikainen@gmail.com>
+Date:   Fri Nov 4 11:08:04 2022 +0200
+
+    toinen.txt removed
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 812995ec959c61abbde08ccaaf9ea149896cf4c7
+
