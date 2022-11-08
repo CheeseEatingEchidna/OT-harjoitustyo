@@ -1,12 +1,12 @@
-#OT Harjoitustyön readme
+# OT Harjoitustyön readme
 
 **i can now bold**
 
 *or even be italian!*
 
 
-###Gitlog
+### Gitlog
 https://github.com/CheeseEatingEchidna/OT-harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt
 
-###Komentorivi
+### Komentorivi
 https://github.com/CheeseEatingEchidna/OT-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt
