@@ -26,7 +26,7 @@ class TestMaksukortti(unittest.TestCase):
         
         self.maksukortti.ota_rahaa(9999)
 
-        self.assertNotEqual(self.maksukortti, 1000)
+        self.assertNotEqual(str(self.maksukortti), "Kortilla on rahaa 1000 euroa")
 
     def test_true_jos_rahat_riittavat(self):
         
