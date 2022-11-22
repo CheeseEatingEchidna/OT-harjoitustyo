@@ -1,4 +1,5 @@
-
+import PySimpleGUI as gui
+import os.path
 
 class TextSelectionScreen():
 
