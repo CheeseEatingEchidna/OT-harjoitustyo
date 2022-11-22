@@ -1,20 +1,20 @@
-#Vaatimusmäärittely
+# Vaatimusmäärittely
 
-###Sovelluksen tarkoitus
+### Sovelluksen tarkoitus
 
 Sovellus mahdollistaa teksti tiedostojen muokkaamisen androidilla. Sovellus backuppaa näitä tiedostoja (gittiä käyttäen) napin painalluksesta/automaattisesti. Tiedostot jota sovellus manipuloi tulee toimia hyvin myös vimissä, jotta näitä tiedostoja on mahdollista manipuloida muilla laitteilla vimiä käyttäen.
 
-###Käyttöliittymä
+### Käyttöliittymä
 
 Käyttöliittymä koostuu pelkistetystä kirjoitus alustasta (eli miltein tyhjästä ruudusta), Kansio näkymästä jossa näkyy sovelluksen käytössä olevat kansiot ja niiden sisältö (ikään kuin windowsin file browserin vasemmassa laidassa). Sovelluksella on myös alustus ikkuna johon täytetään tiedot siitä missä kansiossa haluat aloittaa/jatkaa, miten siihen saadaan yhteys (esim miten palvelimeen otetaan yhteyttä) ja vielä login ruutu josta pääsee kirjautumaan ns työtilaan.
 
-##Perusversion tarjoama toiminnallisuus
+## Perusversion tarjoama toiminnallisuus
 
-##Ennen kirjautumista
+## Ennen kirjautumista
 - Käyttäjä voi alustaa ohjelman haluamaansa kansioon
 - Ohjelma sitoo kansioon käyttäjä tunnuksen ja salasanan jota ilman käyttäjä ei pääse sisältöön sovelluksen kautta käsiksi
 
-##Kirjautumisen jälkeen
+## Kirjautumisen jälkeen
 
 - Käyttäjä näkee listan kansioista sisältöineen
 - Valitsemalla teksitiedoston, käyttäjä siiretään tekstin kääntäjään
